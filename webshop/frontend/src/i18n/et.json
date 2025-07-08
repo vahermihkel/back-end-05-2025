@@ -1,0 +1,17 @@
+{
+      "nav": {
+        "homepage": "Avalehele",
+        "cart": "Ostukorvi",
+        "add-product": "Lisa toode",
+        "manage-products": "Halda tooteid",
+        "manage-categories": "Halda kategooriaid",
+        "login": "Logi sisse",
+        "register": "Registreeru",
+        "logout": "Logi välja",
+        "profile": "Profiil"
+      },
+      "home": {
+        "previous": "Eelmine",
+        "next": "Järgmine"
+      }
+    }

@@ -1,0 +1,17 @@
+{
+      "nav": {
+        "homepage": "Homepage",
+        "cart": "Cart",
+        "add-product": "Add product",
+        "manage-products": "Manage products",
+        "manage-categories": "Manage categories",
+        "login": "Login",
+        "register": "Register",
+        "logout": "Log out",
+        "profile": "Profile"
+      },
+      "home": {
+        "previous": "Previous",
+        "next": "Next"
+      }
+    }
